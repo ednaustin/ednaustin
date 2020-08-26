@@ -78,7 +78,7 @@ END_SECTION:activity--
 -->
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary align="left">:zap: Github Stats</summary>
 
   <img align="left" alt="ednaustin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ednaustin&theme=highcontrast&show_icons=true" />
 
