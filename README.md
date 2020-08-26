@@ -61,7 +61,7 @@
 -->
 
 <br/>
-<hr style="border-bottom: 0px">
+<hr style="border-bottom: 0px" />
 
 <!--
 <details>
