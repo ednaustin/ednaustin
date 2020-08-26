@@ -84,7 +84,5 @@ END_SECTION:activity--
 
 </details>
 
-</details>
-
 [website]: https://ednaustin.com
 [instagram]: https://instagram.com/ednaustin
