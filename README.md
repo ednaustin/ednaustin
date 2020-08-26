@@ -61,6 +61,7 @@
 ➡️ [more blog posts...](https://ednaustin.com)
 
 -->
+<br/>
 ---
 
 
@@ -82,7 +83,7 @@ END_SECTION:activity--
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="ednaustin's Github Stats" src="https://github-readme-stats.ednaustin.vercel.app/api?username=ednaustin&theme=highcontrast&show_icons=true" />
+  <img align="left" alt="ednaustin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ednaustin&theme=highcontrast&show_icons=true" />
 
 </details>
 
