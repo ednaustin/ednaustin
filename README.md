@@ -1,9 +1,8 @@
 ### Hi there, I'm Ed - aka [ednaustin][website] 👋
 
 [![Website](https://img.shields.io/website?label=ednaustin.com&style=for-the-badge&url=https%3A%2F%2Fednaustin.com)](https://ednaustin.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/ednaustin?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fednaustin&screen_name=ednaustin)
 
-## I'm a Husband, Dad, and Developer!
+## I'm a Husband, Dad, and Frontend Developer!
 
 - 🔭 I’m currently working on a [Portfolio/Blog][website]!
 - 🌱 I’m currently learning React 🤣
@@ -19,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] <!--[webdevplaylist] -->
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <!--[webdevplaylist] -->
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />] <!--[cssplaylist] -->
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />] <!--[jsplaylist]-->
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />] <!--[reactplaylist] -->
@@ -65,7 +64,7 @@
 ---
 
 
-<!-->
+<!--
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -91,8 +90,10 @@ END_SECTION:activity--
 [twitter]: 
 [youtube]: 
 [instagram]: https://instagram.com/ednaustin
-[linkedin]: 
+
 <!-->
+[linkedin]: 
+
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
