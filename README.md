@@ -30,7 +30,6 @@
 <!--
 <br />
 
----
 
  ### 📺 Latest YouTube Videos -->
 
@@ -45,7 +44,6 @@
 <!-- ➡️ [more videos...](https://youtube.com/codestackr) -->
 
 <!--
----
 
 ### 📕 Blog
 
@@ -82,7 +80,7 @@ END_SECTION:activity--
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="ednaustin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ednaustin&theme=highcontrast&show_icons=true&hide_border=true" />
+  <img align="left" alt="ednaustin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ednaustin&theme=highcontrast&show_icons=true" />
 
 </details>
 
