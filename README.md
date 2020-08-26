@@ -4,7 +4,7 @@
 
 ## I'm a Husband, Dad, and Frontend Developer!
 
-- 🔭 I’m currently working on a [Portfolio/Blog][website]!
+- 🔭 I recently finished working on my [Portfolio/Blog][website]!
 - 🌱 I’m currently learning React 🤣
 - 🥅 2020 Goals: Setup a full React website
 - ⚡ Fun facts: I love to mountain bike and I love anything horror
