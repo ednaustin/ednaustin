@@ -59,7 +59,6 @@
 ➡️ [more blog posts...](https://ednaustin.com)
 
 -->
-<br/>
 
 
 <!--
@@ -76,6 +75,7 @@ END_SECTION:activity--
 
 </details>
 -->
+<br/>
 
 <details>
   <summary align="left">:zap: Github Stats</summary>
