@@ -60,6 +60,7 @@
 
 -->
 
+<br/>
 
 <!--
 <details>
@@ -75,7 +76,6 @@ END_SECTION:activity--
 
 </details>
 -->
-<br/>
 
 <details>
   <summary>:zap: Github Stats</summary>
