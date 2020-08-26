@@ -86,12 +86,10 @@ END_SECTION:activity--
 
 </details>
 
-[website]: https://ednaustin.com
-[twitter]: 
-[youtube]: 
-[instagram]: https://instagram.com/ednaustin
+[website]: <a href="https://ednaustin.com" target="_blank">ednaustin.com</a>
+[instagram]: <a href="https://instagram.com/ednaustin" target="_blank">ednaustin</a>
 
-<!-->
+<!--
 [linkedin]: 
 
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
