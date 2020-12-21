@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=ednaustin.com&style=for-the-badge&url=https%3A%2F%2Fednaustin.com)](https://ednaustin.com)
 
-## I'm a Husband, Dad, and Frontend Developer!
+## I'm a Husband, Dad, and Front End Developer!
 
 - 🔭 I recently finished working on my [Portfolio/Blog][website]!
 - 🌱 I’m currently working on a React website 🤣
-- 🥅 2020 Goals: Take a safe family vacation. Publish a React website.
+- 🥅 2020 Goals: Survive.
 - ⚡ Fun facts: I love to mountain bike and I love anything horror
 
 ### Connect with me:
